@@ -1,0 +1,9 @@
+#pokedex-div{
+    display: grid;
+    grid-template-rows: repeat(2, 250px);
+    grid-auto-flow: column;
+    margin: 10px;
+    
+    
+    
+}
